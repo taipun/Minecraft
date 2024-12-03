@@ -1,0 +1,1 @@
+Move the crack (Minecraft.exe) to C:\XboxGames\Minecraft Launcher\Content then change the file name to MinecraftCrack.exe then run it You may need to disable your antivirus. The script to disable antivirus may find in privacy.sexy
